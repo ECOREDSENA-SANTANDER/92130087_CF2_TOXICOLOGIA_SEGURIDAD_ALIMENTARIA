@@ -1,19 +1,186 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 3.4s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 13%
+    right: 20%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 32%
+    right: 82%
+  &-3
+    animation: float1 3.1s ease-in-out infinite alternate
+    position: absolute
+    top: 72%
+    right: 67%
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/mini-portada.png") !important
+  background-repeat: no-repeat
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem        
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario       
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+
+.bg1
+  background-color: #D6F1F4 
+.bg2
+  background-color: #FEE9E9 
+.bg3
+  background-color: #D6F1F4 
+  border-radius: 30px
+.bg4
+  background-color: #F5F9F7 
+.bg5
+  background-color: #FBB5B6
+.bg6
+  background-color:#FFEED2
+.bg7
+  background-color:#FDDADB
+.bg8
+  background-color:#F6F0CA
+.bg9
+  background-color:#FDDADB
+  border-radius: 30px
+
+
+.bgtitulo1
+  width: fit-content
+  background-color: #FCEDB6 
+.bgtitulo2
+  width: fit-content
+  background-color: #FCEDB6 
+  border-radius: 30px
+.bgtitulo3
+  width: fit-content
+  background-color: #FFFFFF 
+
+.bgc-1
+  //background-image: url("../assets/curso/temas/t1/bgc1.png")
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  border-radius: 30px
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+
+
+.subt
+  position: relative
+  width: fit-content
+  &::before
+    content: ''
+    position: absolute
+    background-color: #F8D348
+    border-radius: 50px
+    height: 60%
+    width: 100%
+    top: 50%
+    transform: translateY(-50%)
+    z-index: 0
+  img, h3
+    z-index: 999 
+    position: relative 
+
+
+// TARJETA HOVER    
+.nav-holder2
+  display: inline-block
+  overflow: hidden
+  position: relative
+  border-radius: 25px
+  -webkit-transform: translateZ(0)
+  -moz-transform: translateZ(0)
+  transform: translateZ(0)
+.nav-holder2 *, .nav-holder2 *:before, .nav-holder2 *:after
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+  -webkit-transition: all 0.45s ease
+  -moz-transition: all 0.45s ease
+  transition: all 0.45s ease
+.nav-holder2:before
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+  content: ''
+  background-color: #1F6F7A
+  opacity: 1
+  z-index: 888
+  -webkit-transition: all 0.45s ease
+  -moz-transition: all 0.45s ease
+  -ms-transition: all 0.45s ease
+  transition: all 0.45s ease
+  -webkit-transform: translateY(80%)
+  -moz-transform: translateY(80%)
+  transform: translateY(80%)
+.nav-holder2:hover:before
+  -webkit-transform: translateY(20%)
+  -moz-transform: translateY(20%)
+  transform: translateY(20%)
+  opacity: 1
+  -webkit-transition-delay: 0.1s
+  -moz-transition-delay: 0.1s
+  transition-delay: 0.1s
+  background-color: #ADE3EA
+.nav-holder2
+  .text
+    position: absolute
+    top: 70%
+    bottom: 0px
+    left: 0px
+    right: 0px
+    z-index: 999
+    bottom: 0
+    padding: 1em
+  img
+    backface-visibility: hidden
+    max-width: 100%
+    vertical-align: top
+    z-index: 0
+  p
+    margin: 0
+    opacity: 0
+    line-height: 1.2em
+.nav-holder2 h4
+  margin: 0
+  opacity: 1
+  color: #FFF
+.nav-holder2:hover
+  .text
+    top: 10%
+  h4, p
+    opacity: 1
+    color: $color-sistema-texto
+@media (max-width: $bp-max-xs)    
+  .nav-holder2 .text
+    top: 75%
+  .nav-holder2:hover .text 
+    top: 24%
+  .nav-holder2:hover:before
+    -webkit-transform: translateY(30%)
+    -moz-transform: translateY(30%)
+    transform: translateY(30%)
