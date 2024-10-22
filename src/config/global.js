@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Antinutrientes y toxicidad alimentaria',
+    componenteFormativo: 'Sustancias tóxicas',
     descripcionCurso:
-      'Este componente es sobre los conceptos fundamentales de la toxicología general y las principales características del fenómeno tóxico en el organismo. Adicionalmente, explicar la sintomatología de algunas enfermedades generadas por intoxicaciones alimentarias, las cuales son desencadenadas por microorganismos como bacterias, virus y hongos.',
+      'En este componente se aborda el tema de sustancias toxicas teniendo en cuenta los procesos de preparación, aditivos alimentarios para la conservación, almacenamiento, entre otros. <br><br>Adicionalmente, se estudian los efectos de la contaminación ambiental sobre los alimentos y los diferentes elementos y compuestos que son consumidos por el hombre y pueden llegar a afectar su salud.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -17,6 +17,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-3'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
       },
     ],
   },
@@ -36,33 +40,24 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Antinutrientes',
+        titulo:
+          'Sustancias tóxicas derivadas del proceso de preparación y almacenamiento de los alimentos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Toxicología',
+            titulo: 'Derivados de la pirolisis',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Determinación de los tóxicos en los alimentos',
+            titulo: 'Hidrocarburos aromáticos policíclicos (HAP)',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Fenómeno tóxico',
+            titulo: 'Aminas heterocíclicas (AH)',
             hash: 't_1_3',
-          },
-          {
-            numero: '1.4',
-            titulo: 'Tóxicos endógenos y exógenos de los alimentos',
-            hash: 't_1_4',
-          },
-          {
-            numero: '1.5',
-            titulo: 'Sustancias antinutricionales',
-            hash: 't_1_5',
           },
         ],
       },
@@ -70,45 +65,42 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Toxicidad alimentaria por bacterias, virus y hongos',
+        titulo: 'Derivados de la fracción nitrogenada',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'La importancia de los microorganismos',
+            titulo:
+              'Interacción proteína-proteína en alimentos de alto contenido proteico',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Microbiota inicial de los alimentos',
+            titulo:
+              'Interacciones de las proteínas y los hidratos de carbono (Reacción de Maillard)',
             hash: 't_2_2',
-          },
-          {
-            numero: '2.3',
-            titulo: 'FLas enterobacterias y los alimentos',
-            hash: 't_2_3',
           },
         ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'La contaminación vírica en alimentos y agua',
+        titulo: 'Nitrosaminas',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Reservorio de los microorganismos patogénicos',
+            titulo: 'Principales fuentes tóxicas',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Virus',
+            titulo: 'Aminas biógenas',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Virus entéricos en humanos',
+            titulo: 'Toxicidad derivada de la conservación de los alimentos',
             hash: 't_3_3',
           },
         ],
@@ -116,43 +108,82 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Sustancias tóxicas de origen fúngido (hongos)',
+        titulo:
+          'Hidrocarburos policlorados, dioxinas y furanos policlorobifenilos (PCBs)',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Micotoxinas',
+            titulo: 'Dioxinas y Furanos',
             hash: 't_4_1',
           },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Metales pesados',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Residuos de producción agrícola y ganadera',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Residuos de producción, agrícola y ganadera',
+        desarrolloContenidos: true,
+        subMenu: [
           {
-            numero: '4.2',
-            titulo: 'Alfatoxinas',
-            hash: 't_4_2',
+            numero: '7.1',
+            titulo: 'Organofosforados',
+            hash: 't_7_1',
           },
           {
-            numero: '4.3',
-            titulo: 'Ocratoxinas',
-            hash: 't_4_3',
+            numero: '7.2',
+            titulo: 'Organoclorados',
+            hash: 't_7_2',
           },
           {
-            numero: '4.4',
-            titulo: 'Nefrotoxinas',
-            hash: 't_4_4',
+            numero: '7.3',
+            titulo: 'Carbamatos',
+            hash: 't_7_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Residuos de productos farmacológicos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '8.1',
+            titulo: 'Antibióticos',
+            hash: 't_8_1',
           },
           {
-            numero: '4.5',
-            titulo: 'Toxinas del fusarium(tricotecenos)',
-            hash: 't_4_5',
+            numero: '8.2',
+            titulo: 'Betaantagonistas',
+            hash: 't_8_2',
           },
           {
-            numero: '4.6',
-            titulo: 'Toxina de claviceps',
-            hash: 't_4_6',
+            numero: '8.3',
+            titulo: 'Antitiroideos o tireostáticos',
+            hash: 't_8_3',
           },
           {
-            numero: '4.7',
-            titulo: 'Otras microtoxinas',
-            hash: 't_4_7',
+            numero: '8.4',
+            titulo: 'Tranquilizadores',
+            hash: 't_8_4',
+          },
+          {
+            numero: '8.5',
+            titulo: 'Anabolizantes o promotores del crecimiento',
+            hash: 't_8_5',
           },
         ],
       },

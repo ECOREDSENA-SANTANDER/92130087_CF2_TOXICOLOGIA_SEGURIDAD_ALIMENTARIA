@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-4(data-aos="fade") En el siguiente video se presenta la introducción al componente formativo, donde se tratarán temas de toxicología general y su relación con la seguridad alimentaria.
+    p.mb-4(data-aos="fade") En el siguiente video se puede apreciar la introducción al componente, donde el aprendiz puede conocer los temas principales: 
 
     figure
       .video

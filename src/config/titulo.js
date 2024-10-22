@@ -1,1 +1,1 @@
-module.exports = 'Antinutrientes y toxicidad alimentaria'
+module.exports = 'Sustancias tóxicas'
