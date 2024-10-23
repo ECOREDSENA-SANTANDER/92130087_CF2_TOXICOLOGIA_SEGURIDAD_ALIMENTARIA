@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Derivados de la fracción nitrogenada
     
     
     Separador
@@ -137,7 +137,42 @@
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
                 h4.mt-4.mb-3 Clínica
                 p Somnolencia, descoordinación, alucinaciones, confusión, sensaciones anormales, debilidad muscular y descoordinación. Estudios en humanos (sobre 8.000 trabajadores en China) que daban positivo en neurotoxicidad presentaban relación con la aparición de cáncer. 
-    p Métodos para minimizar el contenido en acrilamida en los alimentos:
+    p.mb-4 Métodos para minimizar el contenido en acrilamida en los alimentos:
+
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-3
+        img(src='@/assets/curso/temas/t2/img08.png' alt='')
+      .col-lg-9.col-10.col-md-11
+        SlyderF.mb-5(columnas="col-lg-4 col-md-6")
+          .tarjeta.tarj-slider.p-4.py-5
+            .align-items-center
+              .row.justify-content-center.my-3
+                .col-5.col-lg-4
+                  img(src='@/assets/curso/temas/t2/img09.png' alt='')
+              p.text-center No sobrecalentar los alimentos ricos en carbohidratos.
+          .tarjeta.tarj-slider.p-4.py-5
+            .align-items-center
+              .row.justify-content-center.my-3
+                .col-5.col-lg-4
+                  img(src='@/assets/curso/temas/t2/img10.png' alt='')
+              p.text-center Evitar los alimentos ricos en asparagina y azúcares.
+          .tarjeta.tarj-slider.p-4.py-5
+            .align-items-center
+              .row.justify-content-center.my-3
+                .col-5.col-lg-4
+                  img(src='@/assets/curso/temas/t2/img11.png' alt='')
+              p.text-center Disminuir los niveles de asparagina mediante modificaciones genéticas.
+
+          .tarjeta.tarj-slider.p-4.py-5
+            .align-items-center
+              .row.justify-content-center.my-3
+                .col-5.col-lg-4
+                  img(src='@/assets/curso/temas/t2/img12.png' alt='')
+              p.text-center Hidrolizar la asparagina. 
+
+
+
 
 </template>
 
