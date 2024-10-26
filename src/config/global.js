@@ -361,7 +361,7 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Andrea Paola Botello De la Rosa',
+          nombre: 'Leonardo Castellanos Rodriguez',
           cargo: 'Desarrolladora <em>fullstack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
