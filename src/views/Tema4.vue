@@ -6,7 +6,8 @@
       .titulo-principal__numero
         span 4
       h1 Hidrocarburos policlorados, dioxinas y furanos policlorobifenilos (PCBs)
-
+    
+    p Los bifenilos policlorados (PCBs) se caracterizan por poseer una gran estabilidad y liposolubilidad, lo que determina que puedan acumularse principalmente en el tejido adiposo. Son compuestos química y térmicamente estables a temperaturas inferiores a 850 °C y con excelentes propiedades dieléctricas.
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5.align-items-center
       .bloque-texto-g__img.bg1
         img.img-bloque.d-none.d-lg-block(src='@/assets/curso/temas/t4/img01.png', alt='')

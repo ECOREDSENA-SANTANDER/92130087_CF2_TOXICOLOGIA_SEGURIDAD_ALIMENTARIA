@@ -128,7 +128,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Residuos de producción agrícola y ganadera',
+        titulo: 'Radionúclidos',
         desarrolloContenidos: true,
       },
       {
@@ -249,76 +249,61 @@ export default {
   ],
   glosario: [
     {
+      termino: 'Alergia',
+      significado:
+        'Síntomas o signos que aparecen en individuos sensibilizados, tras la exposición a una sustancia (alergeno) que produjo sensibilización en un contacto anterior, y que no origina trastornos en sujetos no sensibilizados. Las formas más comunes de alergias son rinitis, urticaria, asma y dermitis de contacto. ',
+    },
+    {
       termino: 'Antibiótico',
       significado:
-        'Sustancia producida por, y obtenida de, ciertas células vivas que, a bajas concentraciones, son biostáticos o biocidas, para otras formas de vida, especialmente para organismos patógenos o nocivos.',
+        'Sustancia producida por, y obtenida de, ciertas células vivas (especialmente bacterias, levaduras y hongos), o sus equivalentes sintéticos que, a bajas concentraciones, son biostáticos o biocidas, para otras formas de vida, especialmente para organismos patógenos o nocivos.',
     },
     {
-      termino: 'Bacteria',
+      termino: 'Antídoto',
       significado:
-        'Microorganismos unicelulares que pueden estar presentes en toda la superficie terrestre.',
+        'Sustancia capaz de contrarrestar o reducir el efecto de una sustancia potencialmente tóxica mediante una acción química relativamente específica.',
     },
     {
-      termino: 'Biota',
-      significado: 'La totalidad de los organismos vivos.',
-    },
-    {
-      termino: 'Ergotismo',
-      significado: 'Es una enfermedad causada por el hongo llamado Claviceps.',
-    },
-    {
-      termino: 'Infecciones',
+      termino: 'Cáncer',
       significado:
-        'Alimentos que sirven de vehículo de patógenos en el proceso de colonización en el hombre.',
+        'Denominación de las tumoraciones malignas. Los carcinomas se originan en las células epiteliales; los sarcomas en el tejido conjuntivo.',
     },
     {
-      termino: 'Intoxicación',
+      termino: 'Palatabilidad',
+      significado: 'de paladar, referente al gusto.',
+    },
+    {
+      termino: 'Pirolisis',
       significado:
-        'Conjunto de alteraciones que origina un tóxico que interacciona con un organismo vivo.',
+        'Proceso químico causado por el calentamiento en ausencia de oxígeno, en el cual se descompone la materia orgánica de todo tipo de materiales, menos metales y vidrio.',
     },
     {
-      termino: 'Mutagénesis',
+      termino: 'Tolerancia',
       significado:
-        'Estudia si la sustancia tiene capacidad de alterar el material genético (DNA).',
-    },
-    {
-      termino: 'Peligro',
-      significado:
-        'Es un agente biológico, químico o físico presente en el alimento o bien la condición en que este se halla y que puede causar un efecto adverso para la salud.',
-    },
-    {
-      termino: 'Seguridad',
-      significado: 'Ausencia de daño, peligro o lesión.',
-    },
-    {
-      termino: 'Tóxico',
-      significado: 'Agente químico capaz de provocar una intoxicación.',
+        'Capacidad de un organismo para experimentar exposición a dosis nocivas de una sustancia sin sufrir efectos adversos.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Foerster, A. v. (Abril de 2012). Alimento y conciencia. Recuperado de http://alimentoyconciencia.com/:',
-      link: 'https://drive.google.com/file/d/0B9hhR_rAdSbER1I5bWtlN2Q2V0U/view',
+        'Aqualab, lab-Ferrer. (s.f.). Actividad de agua en alimentos- Ficha técnica. Recuperado el 13 de julio de 2017, de www.aqualab.com: ',
+      link: 'http://depa.fquim.unam.mx/amyd/archivero/9Awypardnoenz_14225.pdf ',
     },
     {
       referencia:
-        'Linder, F. (1995). Toxicología de los alimentos. Acribia: Zaragoza.',
-    },
-    {
-      referencia: 'Paracelso. (1943-1541). La Toxicología.',
+        'Derache, R. (1990). Toxicología y seguridad de los alimentos. Barcelona: Omega. ',
     },
     {
       referencia:
-        'Shibatomo, & Arroyo, M. F. (1996). Sustancias Antinutritivas en alimentos de origen vegetal. Su significado en la alimentación humana. Madrid: Alimentaria.',
+        'Escriche. (2006). Aminas biogenas. Valencia, España: Universidad Politécnica de Valencia. ',
     },
     {
       referencia:
-        'Shibatomo, T. (1996). Introducción a la Toxicología. Acribia: Zaragoza.',
+        'Escriche. (2006). Gestión del Autocontrol en la industria agroalimentaria. Valencia, España: Universidad Politécnica de Valencia. ',
     },
     {
       referencia:
-        'SENA, FAO, Café Quindío, Infoagro, albiz, Blog salud siglo XXI, Ciudad Atómica. (Portal web). “Imágenes web”.',
+        'Lindner, E. (1995). Toxicología de los alimentos 2a edición. Zaragoza, España: Acribia. Revista Scielo. (2010). Cómo reducir las acrilamidas en alimentos a preparar. s.f. ',
     },
   ],
   creditos: [

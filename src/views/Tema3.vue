@@ -120,7 +120,7 @@
         .titulo-sexto.color-secundario
           h5 Figura 3. 
           span
-            | No tiene nombre en el DI
+            | Productos derivados del calentamiento, oxidación de la fracción lipídica
         img(src='@/assets/curso/temas/t3/img05.svg', alt='')
         figcaption Fuente, Sena 2012
 
@@ -136,7 +136,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/t3/img06.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0En ocasiones es necesario efectuar una conservación de los alimentos con la finalidad de realizar una esterilización completa o retraso de la fecha de caducidad. No obstante, hay que tener en cuenta que estos procedimientos pueden tener implicaciones directas sobre la calidad organoléptica o incluso sobre el valor nutricional final del alimento. Con relación a los tratamientos térmicos, ya se ha comentado que probablemente el inconveniente principal sea la generación de productos derivados de las reacciones de Maillard.<br><br> La conservación con productos químicos incluye, además de los pesticidas que serán tratados con posterioridad, los fumigantes, entre los que se encuentran el ácido cianhídrico, el bromuro de metilo, los óxidos de etileno y propileno, y el fósforo hidrogeno, presentando todos ellos una toxicidad importante.
+        p.mb-0 En ocasiones es necesario efectuar una conservación de los alimentos con la finalidad de realizar una esterilización completa o retraso de la fecha de caducidad. No obstante, hay que tener en cuenta que estos procedimientos pueden tener implicaciones directas sobre la calidad organoléptica o incluso sobre el valor nutricional final del alimento. Con relación a los tratamientos térmicos, ya se ha comentado que probablemente el inconveniente principal sea la generación de productos derivados de las reacciones de Maillard.<br><br> La conservación con productos químicos incluye, además de los pesticidas que serán tratados con posterioridad, los fumigantes, entre los que se encuentran el ácido cianhídrico, el bromuro de metilo, los óxidos de etileno y propileno, y el fósforo hidrogeno, presentando todos ellos una toxicidad importante.
 
     .subt(data-aos='fade-right')
       .row.align-items-center.mb-4

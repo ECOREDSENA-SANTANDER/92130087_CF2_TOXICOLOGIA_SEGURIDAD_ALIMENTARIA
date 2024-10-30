@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Residuos de producción agrícola y ganadera
+      h1 Radionúclidos
     
     P Los radionúclidos son elementos radiactivos que se pueden derivar de dos formas:
 
