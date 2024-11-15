@@ -214,7 +214,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF2_92130087_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -266,7 +266,8 @@ export default {
   ],
   referencias: [
     {
-      referencia: '(S/f). Upv.es. Recuperado de',
+      referencia:
+        'Cardona, F. (S/f). Actividad del agua en alimentos: concepto, medidas y aplicaciones. Upv.es. Recuperado de',
       link:
         'https://riunet.upv.es/bitstream/handle/10251/121948/Cardona%20-%20ACTIVIDAD%20DEL%20AGUA%20EN%20ALIMENTOS%3A%20CONCEPTO%2C%20MEDIDA%20Y%20APLICACIONES.pdf?sequence=1',
     },
