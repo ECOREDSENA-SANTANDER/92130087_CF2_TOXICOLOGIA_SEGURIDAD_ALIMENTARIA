@@ -15,15 +15,15 @@
           h5 Figura 2. 
           span
             | Formación química de la nitrosamina.
-        img(src='@/assets/curso/temas/t3/img01.svg', alt='')
+        img(src='@/assets/curso/temas/t3/img01.svg', alt='La figura presenta como se unen los átomos de los elementos que componen la nitrosamina.')
         figcaption Fuente, Sena 2012
-    p Riesgos:
+    h4 Riesgos:
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-sm-12.col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
           h3.text-center Metahemoglobinémica en manipuladores y niños.
 
-    p Beneficios:
+    h4 Beneficios:
     .row.justify-content-center.mb-3(data-aos="fade-down")
       .col-sm-12.col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
@@ -81,7 +81,8 @@
                 p.text-center Debido a la presencia de dimetilamina procedente del óxido de trimetilamina.
 
     p Se conocen una serie de técnicas para disminuir el riesgo de formación de nitrosaminas. En primer lugar, reducir la concentración de nitritos y nitratos siempre que esto sea posible.
-    p En segundo lugar, se pueden utilizar otros aditivos que bloqueen el mecanismo químico de formación<br> de nitrosaminas: ácido ascórbico (E–330) y los derivados, los tocoferoles (E-603 y siguientes), especialmente eficaces en medios acuosos o grasos respectivamente.
+    p En segundo lugar, se pueden utilizar otros aditivos que bloqueen el mecanismo químico de formación de nitrosaminas: ácido ascórbico (E - 330) y los derivados, los tocoferoles (E - 603 y siguientes), especialmente eficaces en medios acuosos o grasos respectivamente.
+
 
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -120,16 +121,17 @@
         .titulo-sexto.color-secundario
           h5 Figura 3. 
           span
-            | Productos derivados del calentamiento, oxidación de la fracción lipídica
+            |  Productos derivados del calentamiento y la oxidación de la fracción lipídica.
         img(src='@/assets/curso/temas/t3/img05.svg', alt='')
         figcaption Fuente, Sena 2012
 
     p Los tratamientos de hidrogenación consisten en la incorporación de hidrógeno al doble enlace de los ácidos grasos insaturados. Esto permite convertir los aceites en grasa plástica para elaborar margarinas y bollería industrial cuando se hace de forma parcial. Son grasas estables y tienen mejor color. 
-    p Además de saturar los dobles enlaces se isomerizan, es decir, se reorganiza la estructura de la membrana para dar lugar a ácidos grasos trans. Los trans se forman espontáneamente en las grasas y carnes de animales rumiantes (entre un 3-10% de los AG son trans) y por tratamientos de hidrogenación y transesterificación. También se forman aplicando temperaturas elevadas (fritos, asados).
+    p Además de saturar los dobles enlaces se isomerizan, es decir, se reorganiza la estructura de la membrana para dar lugar a ácidos grasos trans. Los trans se forman espontáneamente en las grasas y carnes de animales rumiantes (entre un 3 - 10 % de los AG son trans) y por tratamientos de hidrogenación y transesterificación. También se forman aplicando temperaturas elevadas (fritos, asados).
+
 
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.3 Toxicidad derivada de la conservación de los alimentos.
+      h2 3.3 Toxicidad derivada de la conservación de los alimentos
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

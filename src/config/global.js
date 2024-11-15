@@ -207,11 +207,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -233,20 +228,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
-    },
-  ],
   glosario: [
     {
       termino: 'Alergia',
@@ -285,9 +266,9 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Aqualab, lab-Ferrer. (s.f.). Actividad de agua en alimentos- Ficha técnica. Recuperado el 13 de julio de 2017, de www.aqualab.com: ',
-      link: 'http://depa.fquim.unam.mx/amyd/archivero/9Awypardnoenz_14225.pdf ',
+      referencia: '(S/f). Upv.es. Recuperado de',
+      link:
+        'https://riunet.upv.es/bitstream/handle/10251/121948/Cardona%20-%20ACTIVIDAD%20DEL%20AGUA%20EN%20ALIMENTOS%3A%20CONCEPTO%2C%20MEDIDA%20Y%20APLICACIONES.pdf?sequence=1',
     },
     {
       referencia:
@@ -335,30 +316,40 @@ export default {
           cargo: 'Asesora pedagógica',
           centro: 'Línea de producción Tolima',
         },
+        {
+          nombre: 'Jesús Bernardo Novoa Ortiz ',
+          cargo: 'Guionista',
+          centro: 'Línea de producción Tolima ',
+        },
+        {
+          nombre: 'Claudia Rocio Varon Buitrago ',
+          cargo: 'Senior línea de producción',
+          centro: 'Línea de producción Tolima',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún ',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yazmin Rocio Figueroa Pacheco ',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrolladora <em>fullstack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Leonardo Castellanos Rodriguez',
+          cargo: 'Desarrollador <em>fullstack</em>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'María Alejandra Vera Briceño ',
+          cargo: 'Animador y Producción audiovisual',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -366,24 +357,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

@@ -18,7 +18,7 @@
           .col-lg-2.col-2
             img(src='@/assets/curso/temas/t5/img02.png', alt='')
           .col-lg-10
-            p  Generalmente, los metales pesados se acumulan en el suelo, logrando ser ingeridos por determinados animales. Sin embargo, algunos de estos elementos son constituyentes esenciales tanto en humanos como en animales, y sus posibles deficiencias pueden causar problemas, por lo cual en ciertas ocasiones es necesario recurrir a suplementos dietéticos. Pero por otra parte, algunos pueden causar problemas cuando se encuentran en exceso.
+            p Generalmente, los metales pesados se acumulan en el suelo, logrando ser ingeridos por determinados animales. Sin embargo, algunos de estos elementos son constituyentes esenciales tanto en humanos como en animales, y sus posibles deficiencias pueden causar problemas, por lo cual en ciertas ocasiones es necesario recurrir a suplementos dietéticos. Pero, por otra parte, algunos pueden causar problemas cuando se encuentran en exceso.
         p Los niveles de toxicidad de los metales pesados, dependen no sólo de la especie animal sino de la presencia de otros constituyentes. La acción tóxica se lleva a cabo a través de la combinación de los metales con los grupos sulfhídrilos o tiólicos de las  proteínas y, más concretamente, de las enzimas. La toxicidad potencial de un metal aumenta con el grado de oxidación; depende del tipo de combinación química que se establece entre el metal y el componente del alimento que lo  vehiculiza o bien del organismo una vez absorbido.
 
     h3 Plomo (Pb)
@@ -55,11 +55,15 @@
             img(src='@/assets/curso/temas/t5/img06.png', alt='')     
 
 
-    p.mb-3 Existen muchos alimentos que pueden aportar plomo en la dieta como se muestra en la figura 1.  La media de plomo en los alimentos se estima entre 0,05-0,2 µg/g y en agua de 10-20 µg/L. El comité de expertos de la FAO/OMS recomendó que la ingesta semanal por persona no excediera de 25 µg/Kg de peso, y para el agua de bebida se ha establecido como valor de referencia 0,05 µg/L.
+    p.mb-3 Existen muchos alimentos que pueden aportar plomo en la dieta como se presenta en la figura 4. La media de plomo en los alimentos se estima entre 0,05 - 0,2 µg / g y en agua de 10 - 20 µg / L. El comité de expertos de la FAO / OMS recomendó que la ingesta semanal por persona no excediera de 25 µg / Kg de peso, y para el agua de bebida se ha establecido como valor de referencia 0,05 µg / L.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-6.col-8
-        img(src='@/assets/curso/temas/t5/img07.svg', alt='')     
+      .col-sm-.col-lg-6.col-8
+        .titulo-sexto.color-secundario
+          h5 Figura 4. 
+          span
+            | Aporte de plomo en alimentos.
+        img(src='@/assets/curso/temas/t5/img07.svg', alt='La figura presenta un diagrama de torta donde se mencionan los siguientes porcentajes: bebidas alcohólicas 25 %, frutas 11 %, verduras 9 %, pan 11 %, leche 7 %, pescado 9 %, carne 12 %, otros 16 %.')     
         figcaption Fuente: SENA (2012)
 
     p Los efectos tóxicos del plomo, son posibles no sólo por su amplia presencia ambiental, sino también en gran parte por su fácil solubilidad ya que se disuelven en ácidos débiles como el ácido carbónico y en otros ácidos orgánicos muy presentes en los alimentos como el ácido cítrico, málico, tartárico, ácidos grasos, entre otros.
@@ -80,9 +84,11 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/t5/img08.svg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La forma más tóxica de este metal es el metil mercurio, el cual se disuelve con facilidad en la grasa y pasa la barrera hematoencefálica y la placenta. Tiene potencial mutágeno y teratógeno. Por ello las mujeres en edad fértil, embarazadas o en periodo de lactancia y los niños son los grupos más vulnerables. La FAO/OMS (2003) ha establecido la ingesta semanal tolerable provisional (PTWI) para el MeHg en 1,6 μg/kg peso corporal.<br><br>Entre las principales fuentes de contaminación por mercurio se encuentran la fabricación de termómetros, barómetros, baterías o pilas que contienen mercurio, en el tratamiento antifúngico  de las semillas y en clínicas dentales con el uso de amalgamas.
+        p.mb-0 La forma más tóxica de este metal es el metil mercurio, el cual se disuelve con facilidad en la grasa y pasa la barrera hematoencefálica y la placenta. Tiene potencial mutágeno y teratógeno. Por ello las mujeres en edad fértil, embarazadas o en periodo de lactancia y los niños son los grupos más vulnerables. La FAO / OMS (2003) ha establecido la ingesta semanal tolerable provisional (PTWI) para el MeHg en 1,6 μg / kg peso corporal.
+        <br><br>Entre las principales fuentes de contaminación por mercurio se encuentran la fabricación de termómetros, barómetros, baterías o pilas que contienen mercurio, en el tratamiento antifúngico  de las semillas y en clínicas dentales con el uso de amalgamas.
 
-    p El mercurio como consecuencia de los vertidos industriales, llega a las aguas continentales y marinas. Allí sufre un proceso de metilación biológica, dando productos como monometil y dimetil mercurio, que son captados por el plancton que sirve de alimento a los peces. Por esta razón, la  primordial fuente de contaminación de mercurio en la alimentación son el pescado y los mariscos; los mayores contenidos se encuentran en los peces predadores. La principal fuente de contaminación de los alimentos, más del 90%, corresponde al mercurio orgánico.
+
+    p El mercurio como consecuencia de los vertidos industriales, llega a las aguas continentales y marinas. Allí sufre un proceso de metilación biológica, dando productos como monometil y dimetil mercurio, que son captados por el plancton que sirve de alimento a los peces. Por esta razón, la  primordial fuente de contaminación de mercurio en la alimentación son el pescado y los mariscos; los mayores contenidos se encuentran en los peces predadores. La principal fuente de contaminación de los alimentos, más del 90 %, corresponde al mercurio orgánico.
 
     .cajon.color-acento-contenido.p-4.mb-4(data-aos='fade-right')
       p Una de las mayores preocupaciones de la toxicología alimentaria es el posible efecto derivado de la exposición a bajo nivel del mercurio. Por esta razón en diferentes países se establecen valores límites del contenido de mercurio en los alimentos, y más a los productos de pesca. De acuerdo con el comité de expertos de la FAO/OMS se establece un nivel de ingestión semanal tolerable provisional de 0,3 mg de mercurio total por persona, de los cuales, como máximo no debe superar los 0,2 mg en forma de metil mercurio.
@@ -96,20 +102,20 @@
         .col-auto.ps-0
           h3.mb-0.pe-4.pe-lg-5 Cadmio (Cd)
 
-    p Este elemento es utilizado principalmente como pigmento en la elaboración de pinturas así como en el proceso de electrólisis para el recubrimiento de metales con cadmio. El cadmio se transfiere fácilmente del suelo a los vegetales y por ello es frecuente encontrarlo como impureza en vegetales cultivados en suelos fertilizados con importantes cantidades de fosfato.
+    p Este elemento es utilizado principalmente como pigmento en la elaboración de pinturas, así como en el proceso de electrólisis para el recubrimiento de metales con cadmio. El cadmio se transfiere fácilmente del suelo a los vegetales y por ello es frecuente encontrarlo como impureza en vegetales cultivados en suelos fertilizados con importantes cantidades de fosfato.
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5.align-items-center
       .bloque-texto-g__img.bg1
         img.img-bloque.d-none.d-lg-block(src='@/assets/curso/temas/t5/img09.png', alt='')
       .bloque-texto-g__texto.p-4
-        p.mb-3 El cadmio es acumulable, por lo cual es importante la ingesta crónica aun cuando sean cantidades mínimas, particularmente en el riñón, el cual es el órgano diana por excelencia, además de acumularse también en el hígado, páncreas y pulmón. La reserva más significativa de este contaminante reside en el barro del fondo de los ríos y los mares. El comité mixto de expertos de la FAO/OMS estableció como ingesta semanal tolerable provisional entre 400-500 µg/ persona. La carne, pescado, frutas, verduras y cereales lo contienen como se presenta en  la siguiente figura:
+        p.mb-3 El cadmio es acumulable, por lo cual es importante la ingesta crónica aun cuando sean cantidades mínimas, particularmente en el riñón, el cual es el órgano diana por excelencia, además de acumularse también en el hígado, páncreas y pulmón. La reserva más significativa de este contaminante reside en el barro del fondo de los ríos y los mares. El comité mixto de expertos de la FAO / OMS estableció como ingesta semanal tolerable provisional entre 400 - 500 µg / persona. La carne, pescado, frutas, verduras y cereales lo contienen como se presenta en  la siguiente figura:
        
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-sm-.col-lg-6.col-8
         .titulo-sexto.color-secundario
-          h5 Figura 4. 
+          h5 Figura 5. 
           span
-            |  Aporte de cadmio a partir de los alimentos
-        img(src='@/assets/curso/temas/t5/img10.svg', alt='')
+            |  Aporte de cadmio a partir de los alimentos.
+        img(src='@/assets/curso/temas/t5/img10.svg', alt='La figura presenta un diagrama de torta, donde se mencionan los siguientes porcentajes: patatas 26 %, verduras 12%, pan 18 %, pescado 25 %, carne 9 %, otros 10 %.')
         .py-1
         figcaption Fuente: SENA (2012)
     
@@ -124,8 +130,10 @@
     .cajon.color-acento-contenido.p-4.mb-4(data-aos='fade-right')
       p El arsénico no es un elemento esencial para el ser humano, claro que en animales de experimentación se ha comprobado que su carencia produce retraso del crecimiento, destrucción de eritrocitos, alteración del bazo con acumulación de hierro, pérdida de pelo, entre otras. Además, es un tóxico importante debido a su capacidad de acumularse en la cadena trófica, lo que implica un modelo potencial para la salud y los animales. La exposición aguda a altas dosis tiene efectos letales sobre los organismos y la exposición crónica a bajas dosis está asociada con problemas mutagénicos y carcinogénicos.
       p El nivel existente de arsénico en los alimentos es normalmente reducido, siendo el pescado que se halla en contacto con aguas donde se vierten residuos, el que más contribuye al aporte alimentario del metal. En ciertos animales marinos, especialmente en mariscos, el arsénico tiende a concentrarse en forma de arsenobetaína.
-    p Otro alimento donde puede encontrarse es en las carnes. El comité de expertos de la FAO/OMS estimó como ingesta máxima diaria provisional para arsénico inorgánico el valor de 0,002 mg/kg de peso corporal.
-    p Los compuestos del arsénico presentes en las fuentes marinas son formas inorgánicas metiladas que son menos tóxicas que las de tipo inorgánico. La absorción por vía oral representa un 95%.
+    p Otro alimento donde puede encontrarse es en las carnes. El comité de expertos de la FAO / OMS estimó como ingesta máxima diaria provisional para arsénico inorgánico el valor de 0,002 mg / kg de peso corporal.
+
+    p Los compuestos del arsénico presentes en las fuentes marinas son formas inorgánicas metiladas que son menos tóxicas que las de tipo inorgánico. La absorción por vía oral representa un 95 %.
+
 
 
     .subt(data-aos='fade-right')
@@ -149,7 +157,7 @@
         .col-auto.ps-0
           h3.mb-0.pe-4.pe-lg-5 Cobre (Cu)
 
-    p Las sales de cobre, en particular el sulfato de cobre  son utilizadas como pesticidas (en los viñedos). A nivel industrial, el cobre también forma parte de una gran variedad de aleaciones con otros metales y es muy empleado en la industria eléctrica. Los pescados son la especie más sensible y los mariscos son especialmente sensibles a la captación y acumulación de cobre, en especial las ostras. 
+    p Las sales de cobre, en particular el sulfato de cobre, son utilizadas como pesticidas (en los viñedos). A nivel industrial, el cobre también forma parte de una gran variedad de aleaciones con otros metales y es muy empleado en la industria eléctrica. Los pescados son la especie más sensible y los mariscos son especialmente sensibles a la captación y acumulación de cobre, en especial las ostras. 
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade-right')
       .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-3
@@ -167,27 +175,27 @@
             tbody
               tr.text-center
                 td As (inorgánico)
-                td 15 μg/kg peso corporal/semana.
+                td 15 μg / kg peso corporal/semana.
                 td Pan y cereales. Pescados y mariscos.
               tr.text-center
                 td Cd
-                td 2,5 μg/kg peso corporal/semana.
+                td 2,5 μg / kg peso corporal/semana.
                 td Pan y cereales. Legumbres. Carne y derivados.
               tr.text-center
                 td Hg
-                td 5 μg/kg peso corporal/semana.
+                td 5 μg / kg peso corporal/semana.
                 td Peces y mariscos.
               tr.text-center
                 td Metil mercurio
-                td 1,6 μg/kg peso corporal/semana.
+                td 1,6 μg / kg peso corporal/semana.
                 td Peces y mariscos.
               tr.text-center
                 td Pb
-                td 25 μg/kg peso corporal/semana.
+                td 25 μg / kg peso corporal/semana.
                 td Carne y derivados. Pan y cereales. Peces y mariscos. Leche. Frutas.
               tr.text-center
                 td Cu
-                td 3,5 mg/kg peso corporal/semana.
+                td 3,5 mg / kg peso corporal/semana.
                 td Mariscos (ostras).
           .py-1
           p Fuente: SENA (2012)

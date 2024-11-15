@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1 Residuos de producción, agrícola y ganadera
+      h1 Residuos de producción agrícola y ganadera
     
     p Los plaguicidas son sustancias muy utilizadas en el mundo entero para el control de diferentes agentes, entre los que se encuentran: insectos, artrópodos, animales transmisores de enfermedades y hongos. En especies vegetales se usan para el control de insectos y malezas, y en la ganadería para controlar los parásitos; también se utilizan para eliminar roedores y mosquitos.
     p Estas sustancias en la actualidad son utilizadas tanto de forma industrial como en los hogares.
@@ -87,7 +87,7 @@
       .bloque-texto-g__img.bg1
         img.img-bloque.d-none.d-lg-block(src='@/assets/curso/temas/t7/img01.png', alt='')
       .bloque-texto-g__texto.p-4
-        p.mb-3 Desde el año 1945, los plaguicidas se han multiplicado por 45, pero debido a los nuevos controles de los últimos 15 años se ha tenido un mayor control para reducir su uso. El nivel de seguridad toxicológica de los principales plaguicidas permitidos que son usados en diferentes cultivos son establecidos por el Codex Alimentarius (FAO/ OMS, 2005) donde se definen los Límites Máximos de Residuos (LMR) para cada cultivo. Según la OMS cada año hay 250.000 muertos debido a los plaguicidas. La mayoría de los países han establecido un LMR, pero el desconocimiento de efectos sinérgicos y antagónicos entre los diferentes plaguicidas y la exposición real a través de la dieta los convierte en muy peligrosos.
+        p.mb-3 Desde el año 1945, los plaguicidas se han multiplicado por 45, pero debido a los nuevos controles de los últimos 15 años se ha tenido un mayor control para reducir su uso. El Codex Alimentarius, establecido por la FAO y la OMS en 2005, define los Límites Máximos de Residuos (LMR) para los principales plaguicidas permitidos en distintos cultivos. Estos límites establecen el nivel de seguridad toxicológica de cada plaguicida, garantizando que su uso en la agricultura no represente un riesgo para la salud humana. Según la OMS cada año hay 250.000 muertos debido a los plaguicidas. La mayoría de los países han establecido un LMR, pero el desconocimiento de efectos sinérgicos y antagónicos entre los diferentes plaguicidas y la exposición real a través de la dieta los convierte en muy peligrosos.
  
     p Dependiendo   de   su   grado   de   peligrosidad los plaguicidas se pueden clasificar en extremadamente, altamente, medianamente y ligeramente tóxicos si son de baja o alta peligrosidad. De acuerdo con su dosis letal 50 (DL50) se pueden clasificar en diferentes categorías toxicológicas como se aprecia a continuación:
 
@@ -136,8 +136,11 @@
  
           .py-1
           p Fuente: Decreto 1843/1991, Ministerio de Salud de Colombia.
-
-    P El Ministerio de Salud, de acuerdo con el decreto 1843 de 1991, expide el concepto toxicológico (el cual consiste en una serie de pruebas de toxicidad aguda, subaguda y crónica en mamíferos, que generalmente realizan las casas comerciales en sus países de origen) para los productos formulados que se apliquen en el país y los permisos de experimentación bajo protocolos específicos. Este decreto busca mantener una dinámica de integración entre los Ministerios de Agricultura, a través del ICA y el Ministerio de Salud, la industria y usuarios, para el estudio y planeamiento de soluciones a la situación de los plaguicidas en Colombia.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-2.col-6.col-sm-5
+        img(src='@/assets/curso/temas/t7/IMG04.png', alt='')
+      .col-lg-10
+        P El Ministerio de Salud, de acuerdo con el decreto 1843 de 1991, expide el concepto toxicológico (el cual consiste en una serie de pruebas de toxicidad aguda, subaguda y crónica en mamíferos, que generalmente realizan las casas comerciales en sus países de origen) para los productos formulados que se apliquen en el país y los permisos de experimentación bajo protocolos específicos. Este decreto busca mantener una dinámica de integración entre los Ministerios de Agricultura, a través del ICA y el Ministerio de Salud, la industria y usuarios, para el estudio y planeamiento de soluciones a la situación de los plaguicidas en Colombia.
     .row.justify-content-center.align-items-center.mb-3(data-aos='fade-right')
       .col-lg-12
         .cajon.color-acento-contenido.p-4
@@ -155,7 +158,7 @@
         img(src='@/assets/curso/temas/t7/img002.png', alt='')
       .col-lg-7.ps-lg-0
         .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
-          p Son muy utilizados como insumos agrícolas, como plaguicidas en los hogares y para el control de agentes transmisores de enfermedades epidémicas. Son fácilmente hidrolizados, tienen escasa permanencia en el medio ambiente y escaso potencial de acumulación. Tienen efectos sobre los insectos pero ninguna actividad sobre plantas. Muchos de ellos son altamente tóxicos para los humanos y especies no objetivas. <br><br>Los compuestos más conocidos son el malatión, diclorvós, metamidofós, clorpirifós, diazinón, escradán, fentión, demetón. De los nombres comerciales se encuentran: FOLIDOL® (metilparathion), ABATE® (tenefos), PARATHION 50® (parathion), NUVAN® (diclorvos), BAYGON® (propoxur). 
+          p Son muy utilizados como insumos agrícolas, como plaguicidas en los hogares y para el control de agentes transmisores de enfermedades epidémicas. Son fácilmente hidrolizados, tienen escasa permanencia en el medio ambiente y escaso potencial de acumulación. Tienen efectos sobre los insectos, pero ninguna actividad sobre plantas. Muchos de ellos son altamente tóxicos para los humanos y especies no objetivas. <br><br>Los compuestos más conocidos son el malatión, diclorvós, metamidofós, clorpirifós, diazinón, escradán, fentión, demetón. De los nombres comerciales se encuentran: FOLIDOL® (metilparathion), ABATE® (tenefos), PARATHION 50® (parathion), NUVAN® (diclorvos), BAYGON® (propoxur). 
     
     Separador
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')

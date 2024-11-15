@@ -78,11 +78,11 @@
         img(src='@/assets/curso/temas/t1/img06.png', alt='')
       .col-lg-7.ps-lg-0
         .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
-          p Los HAP son un grupo de más de 100 sustancias químicas diferentes que se forman durante la combustión incompleta del carbón, el petróleo y la gasolina, la basura y otras sustancias orgánicas como el tabaco o la carne preparada a la brasa. <br><br>Los HAP se encuentran generalmente como una mezcla de dos o más de estos compuestos. Los alimentos crudos contienen pocos HAP, los cuales se ven incrementados cuando el alimento es cocinado, es tostado o se lleva a plancha. La formación de ellos en preparaciones con brasas de carbón, aumenta por el contenido de grasa de la carne, el tiempo de cocción y la temperatura. <br><br>El cancerígeno más conocido de todos es el benzopireno ampliamente difundido en los alimentos. Se forma a partir de almidón a 370-390 ºC y también a partir de aminoácidos y ácidos grasos a temperaturas altas.
+          p Los HAP son un grupo de más de 100 sustancias químicas diferentes que se forman durante la combustión incompleta del carbón, el petróleo y la gasolina, la basura y otras sustancias orgánicas como el tabaco o la carne preparada a la brasa. <br><br>Los HAP se encuentran generalmente como una mezcla de dos o más de estos compuestos. Los alimentos crudos contienen pocos HAP, los cuales se ven incrementados cuando el alimento es cocinado, es tostado o se lleva a plancha. La formación de ellos en preparaciones con brasas de carbón, aumenta por el contenido de grasa de la carne, el tiempo de cocción y la temperatura. <br><br>El cancerígeno más conocido de todos es el benzopireno ampliamente difundido en los alimentos. Se forma a partir de almidón a 370 - 390 ºC y también a partir de aminoácidos y ácidos grasos a temperaturas altas.
 
-    p Vías de exposición del HAP
+    h5 Vías de exposición del HAP
     p Uso habitual de productos derivados del petróleo y fumadores.
-    p Ambiental
+    h5 Ambiental:
 
     ol.lista-ol--cuadro
       li
@@ -146,7 +146,7 @@
                   |Aumento del cáncer de pulmón en humanos expuestos a emisiones de hornos de carbón de coque, material de construcción, derivados del alquitrán y humo de tabaco.
                 li
                   i.fas.fa-check
-                  |En general los compuestos con mayor peso molecular (3-5 anillos benzoicos) son los más cancerígenos para el organismo. 
+                  |En general los compuestos con mayor peso molecular (3 - 5 anillos benzoicos) son los más cancerígenos para el organismo. 
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -183,7 +183,7 @@
       li
       .lista-ol--cuadro__vineta
         span 5
-      |Humedad
+      |Humedad.
       li
       .lista-ol--cuadro__vineta
         span 6
@@ -223,7 +223,7 @@
             .col-4.col-lg-5
               figure
                 img(src='@/assets/curso/temas/t1/ico03.png', alt='')
-          p.mb-5.text-center La precocción en microondas ha demostrado que disminuye hasta un 90% la formación de AH.
+          p.mb-5.text-center La precocción en microondas ha demostrado que disminuye hasta un 90 % la formación de AH.
 
       .col-sm-6.col-lg-3.mb-4.mb-sm-0
         .tarjeta--boton.size.color-acento-contenido.text-white--hover.p-4
@@ -232,7 +232,7 @@
               figure
                 img(src='@/assets/curso/temas/t1/ico04.png', alt='')
 
-          p.text-center Las AH se absorben por el tracto gastrointestinal y un 40% se elimina por la orina. Estas han demostrado ser mutagénicas y cancerígenas en animales de laboratorio. 
+          p.text-center Las AH se absorben por el tracto gastrointestinal y un 40 % se elimina por la orina. Estas han demostrado ser mutagénicas y cancerígenas en animales de laboratorio. 
     
     
     

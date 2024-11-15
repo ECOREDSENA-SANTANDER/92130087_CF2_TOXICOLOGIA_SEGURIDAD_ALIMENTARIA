@@ -39,12 +39,14 @@
    
    
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-8
+      .col-sm-8.col-lg-3
+        img(src='@/assets/curso/temas/t2/img03.svg', alt='')
+      .col-sm-12.col-lg-5
         .titulo-sexto.color-secundario
           h5 Figura 1.
           span
             | Reacción de Maillard.
-        img(src='@/assets/curso/temas/t2/img03.svg', alt='')
+        img(src='@/assets/curso/temas/t2/img03.png', alt='La figura presenta las reacción particulares de la reacción de Maillard y se mencionan las consecuencias nutricionales: perdidas de vitaminas y disminución digestibilidad de proteínas. Consecuencias toxicológicas: inhibición de las disacaridasas y actividad mutagénica. consecuencias sensoriales: oscurecimiento, aromas y sabores, y viscosidad.')
         figcaption Fuente, Sena 2012
    
     p Aspectos favorables de la reacción Maillard
@@ -58,42 +60,45 @@
     
     h3(data-aos="fade-down") Acrilamida
 
-    p Subproducto que se forma en alimentos ricos en carbohidratos (almidón), baja humedad y tratados a altas temperaturas (más de 120 ºC). Es una sustancia potencialmente cancerígena.
-    p Se forma en el transcurso de la reacción de Maillard por interacción de la asparagina (ASN) y azúcares reductores libres. Este compuesto se forma en mayores cantidades en aquellos alimentos en los que abundan los aminoácidos: representa el 40% de los aminoácidos totales en las patatas chips, 14% en la harina de trigo y el 18% en los productos a base de centeno y café instantáneo.
+    p Subproducto que se forma en alimentos ricos en carbohidratos (almidón), baja humedad y tratados a altas temperaturas (más de 120 º C). Es una sustancia potencialmente cancerígena.
+    p Se forma en el transcurso de la reacción de Maillard por interacción de la asparagina (ASN) y azúcares reductores libres. Este compuesto se forma en mayores cantidades en aquellos alimentos en los que abundan los aminoácidos: representa el 40 % de los aminoácidos totales en las patatas chips, 14 % en la harina de trigo y el 18 % en los productos a base de centeno y café instantáneo.
     p Su formación depende de muchos factores como son la temperatura y tiempo de cocción, humedad, pH y la presencia de hidratos de carbono como fuente de carbonilos necesarios para la reacción de Maillard.
     
-    p(data-aos="fade-down") ¿Cómo reducir la acrilamidas en alimentos a preparar?
+    p(data-aos="fade-down") ¿Cómo reducir las acrilamidas en alimentos a preparar?
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8
+        ol.lista-ol--cuadro
+          li
+          .lista-ol--cuadro__vineta
+            span 1
+          |''Al freír papas se debe utilizar variedades que sean bajas en carbohidratos.
+          li
+          .lista-ol--cuadro__vineta
+            span 2
+          |Se deben freír los alimentos entre 145 y 170 ° C.
+          li
+          .lista-ol--cuadro__vineta
+            span 3
+          |Al freír papas a la francesa deben quedar de color amarillo dorado, nunca café dorado.
 
-    ol.lista-ol--cuadro
-      li
-      .lista-ol--cuadro__vineta
-        span 1
-      |''Cuando fría papas utilice variedades que sean bajas en carbohidratos''.
-      li
-      .lista-ol--cuadro__vineta
-        span 2
-      |Fría los alimentos entre 145 y 170 ºC.
-      li
-      .lista-ol--cuadro__vineta
-        span 3
-      |Cuando fría papas a la francesa, que queden de color amarillo dorado, no café dorado.
+          li
+          .lista-ol--cuadro__vineta
+            span 4
+          |Al tostar pan debe quedar de color dorado tenue aceptable.
 
-      li
-      .lista-ol--cuadro__vineta
-        span 4
-      |Cuando tueste el pan sólo hasta que el color sea dorado tenue aceptable.
+          li
+          .lista-ol--cuadro__vineta
+            span 5
+          |Las papas en rebanadas se deben dejar de 15 a 30 minutos en agua antes de freírlas o asarlas.
 
-      li
-      .lista-ol--cuadro__vineta
-        span 5
-      |Las papas en rebanadas dejarlas de 15 a 30 minutos de agua antes de freír o asarlas.
+          li
+          .lista-ol--cuadro__vineta
+            span 6
+          |Las papas crudas no se deben almacenar en el congelador.'' (Revista Scielo 2010). 
+      .col-lg-3.col-8
+        img(src='@/assets/curso/temas/t2/img004.png', alt='')
 
-      li
-      .lista-ol--cuadro__vineta
-        span 6
-      |No almacenar las papas crudas en el refrigerador.” (Revista Scielo 2010). 
-
-    p(data-aos="fade-down") La formación de acrilamida comienza los 100 ºC, acelerándose a partir de los 140 ºC y siendo la temperatura óptima de 180 ºC (en cualquier horno o sistema de fritura industrial). En alimentos en ebullición no aparece la acrilamida, probablemente porque los alimentos se cuecen en la temperatura de ebullición del agua aproximadamente a 100ºC. La agencia internacional para el Cáncer (IARC) clasifica la acrilamida como un probable carcinógeno en humanos (Grupo 2A).
+    p(data-aos="fade-down") La formación de acrilamida comienza los 100 º C, acelerándose a partir de los 140 º C y siendo la temperatura óptima de 180 ºC (en cualquier horno o sistema de fritura industrial). En alimentos en ebullición no aparece la acrilamida, probablemente porque los alimentos se cuecen en la temperatura de ebullición del agua aproximadamente a 100 º C. La agencia internacional para el Cáncer (IARC) clasifica la acrilamida como un probable carcinógeno en humanos (Grupo 2A).
     
     
     
@@ -137,11 +142,12 @@
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
                 h4.mt-4.mb-3 Clínica
                 p Somnolencia, descoordinación, alucinaciones, confusión, sensaciones anormales, debilidad muscular y descoordinación. Estudios en humanos (sobre 8.000 trabajadores en China) que daban positivo en neurotoxicidad presentaban relación con la aparición de cáncer. 
+    
     p.mb-4 Métodos para minimizar el contenido en acrilamida en los alimentos:
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.col-sm-6.col-8
         img(src='@/assets/curso/temas/t2/img08.png' alt='')
       .col-lg-9.col-10.col-md-11
         SlyderF.mb-5(columnas="col-lg-4 col-md-6")
