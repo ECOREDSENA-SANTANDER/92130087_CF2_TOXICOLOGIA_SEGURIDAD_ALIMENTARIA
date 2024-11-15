@@ -101,7 +101,7 @@
     #t_8_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 8.5 Anabolizantes o promotores del crecimiento
 
-    p Son sustancias que favorecen la síntesis proteica en la producción de carne. Tienen una eficacia a nivel zootécnico, las cuales aumentan la tasa de crecimiento entre 5- 20%. Se clasifican en anabolizantes naturales y de síntesis.
+    p Son sustancias que favorecen la síntesis proteica en la producción de carne. Tienen una eficacia a nivel zootécnico, las cuales aumentan la tasa de crecimiento entre 5 - 20 %. Se clasifican en anabolizantes naturales y de síntesis.
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-3(data-aos='fade-right')
       .bloque-texto-g__img(
