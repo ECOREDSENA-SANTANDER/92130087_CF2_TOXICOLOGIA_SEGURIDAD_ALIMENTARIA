@@ -67,7 +67,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
         p Son sustancias con estructuras orgánicas de dos o más anillos benzoico-fusionados, organizados de diferentes formas, y eventualmente con sustitutos metilo o cadenas más largas de tipo alquilo.
-      .col-lg-3
+      .col-lg-3.col-8
         img(src='@/assets/curso/temas/t1/img05.png', alt='')
       .col-lg-4
         .cajon.color-acento-contenido.p-4.mb-4
@@ -107,7 +107,7 @@
     
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.col-8.mb-2.col-sm-6
         img(src='@/assets/curso/temas/t1/img07.png', alt='')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg7")

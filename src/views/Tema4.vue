@@ -39,11 +39,11 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-12
             p El accidente que tuvo lugar en Severo (Italia) en 1976 en una fábrica de pesticidas dejó constancia de los efectos producidos por las dioxinas sobre la salud. Entre otras, cloracné (alteración dermatológica persistente similar al acné juvenil que aparece en cara, espalda, axilas, brazos y genitales), alteraciones hepáticas, alteraciones en el comportamiento y aprendizaje, disfunciones en el sistema inmunitario y hormonal. Hoy en día, casi medio siglo después, se siguen investigando y descubriendo nuevas afecciones sobre la población que estuvo expuesta.
-          .col-lg-3.col-6
+          .col-lg-3.col-6.col-sm-4
             img(src='@/assets/curso/temas/t4/img04.png', alt='')
           .col-lg-9 
             p Las personas se ven expuestas, principalmente a través de los alimentos (> 90 %) siendo los alimentos de origen animal los que contribuyen mayoritariamente: los animales están expuestos a las dioxinas a través de la contaminación ambiental. Una vez en el organismo del animal, las dioxinas son acumuladas preferentemente en el hígado y el tejido adiposo, siendo la metabolización y la excreción muy lenta, lo cual permite su bioacumulación.
-      .col-lg-3.col-8
+      .col-lg-3.col-8.col-sm-6
         img(src='@/assets/curso/temas/t4/img03.png', alt='')
 
 
