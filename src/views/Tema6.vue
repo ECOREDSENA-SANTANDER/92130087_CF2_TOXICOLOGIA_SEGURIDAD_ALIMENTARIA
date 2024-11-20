@@ -15,7 +15,7 @@
           .col-3.col-lg-3
             img.mb-2(src='@/assets/curso/temas/t6/img01.png', alt='')
           .col-9
-        p.mb-2 A partir de los residuos radioactivos o radioemisores que proceden de las centrales nucleares por fugas radioactivas y contamina los alimentos.
+        p.mb-2 A partir de los residuos radioactivos o radioemisores que proceden de las centrales nucleares por fugas radioactivas y contaminan los alimentos.
     
       .col-md.tarjeta.bg11.p-4.p-lg-5
         .row.align-items-end.mb-4

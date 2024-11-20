@@ -7,7 +7,7 @@
         span 5
       h1 Metales pesados
 
-    p(data-aos='fade-right') Una gran cantidad de metales pesados procedentes  de emisiones industriales, normalmente a bajas concentraciones, pueden originar efectos tóxicos  a gran escala. Es frecuente la acumulación del metal en el organismo, por lo que aun cuando se trata de ingestas muy bajas, se pueden originar efectos tóxicos a largo plazo. La biodisponibilidad del metal depende de diversos factores, entre ellos  las interacciones con otros componentes de la    dieta, incluidos los propios metales, condiciones fisicoquímicas del medio intestinal, situación fisiológica o patológica del individuo, entre otras.
+    p(data-aos='fade-right') Una gran cantidad de metales pesados procedentes  de emisiones industriales, normalmente a bajas concentraciones, pueden originar efectos tóxicos  a gran escala. Es frecuente la acumulación de metal en el organismo, por lo que aun cuando se trata de ingestas muy bajas, se pueden originar efectos tóxicos a largo plazo. La biodisponibilidad del metal depende de diversos factores, entre ellos  las interacciones con otros componentes de la    dieta, incluidos los propios metales, condiciones fisicoquímicas del medio intestinal, situación fisiológica o patológica del individuo, entre otras.
     p Existen algunos metales que aun cuando su concentración pueda ser relativamente baja, la probabilidad de que generen problemas desde el punto de vista toxicológico es considerable, entre ellos se destacan: El plomo (Pb), el arsénico (As), el mercurio (Hg) y el cadmio (Cd).
 
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade-right')
@@ -148,7 +148,7 @@
         img(src='@/assets/curso/temas/t5/img11.png', alt='')
       .col-lg-7.ps-lg-0
         .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
-          p De entre los diversos elementos nutricionales y esenciales el selenio es el que provoca mayores efectos tóxicos. Se distribuye, al igual que ocurre con el arsénico, de una manera muy amplia, aunque hay zonas geográficas donde los suelos contienen mayor cantidad, y por tanto las plantas y los animales que lo captan están expuestos a un mayor riesgo toxicológico. Los cereales son capaces de captar el metal con mucha más avidez que los vegetales, lo que puede tener una gran importancia desde el punto de vista alimentario dado el consumo que se realiza de los mismos. En humanos, los efectos varían desde lesiones de tipo dérmico y gastrointestinal, a hepáticas y neurológicas.
+          p De entre los diversos elementos nutricionales y esenciales, el selenio es el que provoca mayores efectos tóxicos. Se distribuye, al igual que ocurre con el arsénico, de una manera muy amplia, aunque hay zonas geográficas donde los suelos contienen mayor cantidad, y por tanto las plantas y los animales que lo captan están expuestos a un mayor riesgo toxicológico. Los cereales son capaces de captar el metal con mucha más avidez que los vegetales, lo que puede tener una gran importancia desde el punto de vista alimentario dado el consumo que se realiza de los mismos. En humanos, los efectos varían desde lesiones de tipo dérmico y gastrointestinal, a hepáticas y neurológicas.
     
     .subt(data-aos='fade-right')
       .row.align-items-center.mb-4
@@ -157,7 +157,7 @@
         .col-auto.ps-0
           h3.mb-0.pe-4.pe-lg-5 Cobre (Cu)
 
-    p Las sales de cobre, en particular el sulfato de cobre, son utilizadas como pesticidas (en los viñedos). A nivel industrial, el cobre también forma parte de una gran variedad de aleaciones con otros metales y es muy empleado en la industria eléctrica. Los pescados son la especie más sensible y los mariscos son especialmente sensibles a la captación y acumulación de cobre, en especial las ostras. 
+    p Las sales de cobre, en particular el sulfato de cobre, son utilizadas como pesticidas (en los viñedos). A nivel industrial, el cobre también forma parte de una gran variedad de aleaciones con otros metales y es muy empleado en la industria eléctrica. Los peces son la especie más sensible y los mariscos son especialmente sensibles a la captación y acumulación de cobre, en especial las ostras. 
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade-right')
       .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-3

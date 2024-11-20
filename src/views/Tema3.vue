@@ -21,7 +21,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-sm-12.col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
-          h3.text-center Metahemoglobinémica en manipuladores y niños.
+          h3.text-center Metahemoglobinemica en manipuladores y niños.
 
     h4 Beneficios:
     .row.justify-content-center.mb-3(data-aos="fade-down")
@@ -112,7 +112,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto “El Tratamiento térmico no altera la estructura de las aminas biógenas, ni el horneado ni la cocción a vapor tienen efectos apreciables en el nivel de histamina existente. La intoxicación por aminas biógenas se origina por la ingesta de alimentos que contienen altos niveles de estas aminas. Estos compuestos son muy importantes desde el punto de vista toxicológico, ya que pueden inferir toxicidad en el alimento incluso antes de ser considerados organolépticamente inaceptables, esta intoxicación puede presentar en el hombre una gran cantidad de síntomas: cutáneos, gastrointestinales, hemonidamicoa. La sensibilidad a la histamina varía de persona a persona“. 
+          h4.text-regular.bloque-texto-f__texto “El tratamiento térmico no altera la estructura de las aminas biógenas, ni el horneado ni la cocción a vapor tienen efectos apreciables en el nivel de histamina existente. La intoxicación por aminas biógenas se origina por la ingesta de alimentos que contienen altos niveles de estas aminas. Estos compuestos son muy importantes desde el punto de vista toxicológico, ya que pueden inferir toxicidad en el alimento incluso antes de ser considerados organolépticamente inaceptables, esta intoxicación puede presentar en el hombre una gran cantidad de síntomas: cutáneos, gastrointestinales, hemonidamicoa. La sensibilidad a la histamina varía de persona a persona”. 
           .bloque-texto-f__autor.mb-3
             h5.mb-0 - (Escriche 2006).
      
@@ -122,7 +122,7 @@
           h5 Figura 3. 
           span
             |  Productos derivados del calentamiento y la oxidación de la fracción lipídica.
-        img(src='@/assets/curso/temas/t3/img05.svg', alt='')
+        img(src='@/assets/curso/temas/t3/img05.svg', alt='El diagrama de flujo detalla el proceso de degradación de los lípidos y los cambios que produce dicho proceso.')
         figcaption Fuente, Sena 2012
 
     p Los tratamientos de hidrogenación consisten en la incorporación de hidrógeno al doble enlace de los ácidos grasos insaturados. Esto permite convertir los aceites en grasa plástica para elaborar margarinas y bollería industrial cuando se hace de forma parcial. Son grasas estables y tienen mejor color. 

@@ -89,7 +89,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-3 Desde el año 1945, los plaguicidas se han multiplicado por 45, pero debido a los nuevos controles de los últimos 15 años se ha tenido un mayor control para reducir su uso. El Codex Alimentarius, establecido por la FAO y la OMS en 2005, define los Límites Máximos de Residuos (LMR) para los principales plaguicidas permitidos en distintos cultivos. Estos límites establecen el nivel de seguridad toxicológica de cada plaguicida, garantizando que su uso en la agricultura no represente un riesgo para la salud humana. Según la OMS cada año hay 250.000 muertos debido a los plaguicidas. La mayoría de los países han establecido un LMR, pero el desconocimiento de efectos sinérgicos y antagónicos entre los diferentes plaguicidas y la exposición real a través de la dieta los convierte en muy peligrosos.
  
-    p Dependiendo   de   su   grado   de   peligrosidad los plaguicidas se pueden clasificar en extremadamente, altamente, medianamente y ligeramente tóxicos si son de baja o alta peligrosidad. De acuerdo con su dosis letal 50 (DL50) se pueden clasificar en diferentes categorías toxicológicas como se aprecia a continuación:
+    p Dependiendo   de   su   grado   de   peligrosidad los plaguicidas se pueden clasificar en: extremadamente, altamente, medianamente y ligeramente tóxicos si son de baja o alta peligrosidad. De acuerdo con su dosis letal 50 (DL50) se pueden clasificar en diferentes categorías toxicológicas como se aprecia a continuación:
 
     .row.justify-content-center.align-items-center.mb-2(data-aos='fade-right')
       .col-lg-12

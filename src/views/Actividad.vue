@@ -18,18 +18,18 @@ export default {
       tema: 'Aspectos fundamentales en el aprendizaje.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Validar el conocimiento adquirido sobre los antinutrientes y la toxicidad alimentaria.',
+        '<b>Objetivo:</b> Con esta actividad, los aprendices podrán darse cuenta de su conocimiento en cuanto a los conceptos trabajados en este componente.',
       barajarPreguntas: false,
       preguntas: [
         {
           id: 1,
           texto:
-            'Los antinutrientes son sustancias que pueden producir problemas nutricionales y de salud al ser humano.',
+            'La termólisis es un proceso químico causado por el calentamiento en ausencia de oxígeno, en el cual se descompone la materia orgánica de todo tipo de materiales, menos metales y vidrio.',
           imagen: require('@/assets/actividad/pregunta_1.png'),
           barajarRespuestas: false,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto: '¡Muy bien hecho! ',
           mensaje_incorrecto:
@@ -38,7 +38,7 @@ export default {
         {
           id: 2,
           texto:
-            'La carcinogénesis es el estudio de los efectos adversos de sustancias extrañas en los organismos vivos.',
+            'Las nitrosaminas son compuestos cancerígenos que se forman por reacción del óxido nitroso con aminas secundarias y terciarias durante el curado de productos crudos.',
           imagen: require('@/assets/actividad/pregunta_2.png'),
           barajarRespuestas: false,
           opciones: [
@@ -51,13 +51,12 @@ export default {
         },
         {
           id: 3,
-          texto:
-            'La toxicología estudia si la sustancia puede dar lugar al desarrollo de tumores.',
+          texto: 'Los Carbamatos son compuestos derivados del ácido carbámico.',
           imagen: require('@/assets/actividad/pregunta_3.png'),
           barajarRespuestas: false,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien hecho! ',
           mensaje_incorrecto:
@@ -66,7 +65,7 @@ export default {
         {
           id: 4,
           texto:
-            'Los tóxicos exógenos son sustancias que se encuentran presentes de modo natural en los alimentos o se generan en la evolución natural de los mismos.',
+            'Los analgésicos son sustancias ampliamente utilizadas en medicina veterinaria para la profilaxis y tratamiento de enfermedades infecciosas.',
           imagen: require('@/assets/actividad/pregunta_4.png'),
           barajarRespuestas: false,
           opciones: [
@@ -80,7 +79,7 @@ export default {
         {
           id: 5,
           texto:
-            'Los tóxicos exógenos son sustancias extrañas a los alimentos que pueden ser de diversas clases: adicionadas al alimento, generadas por el procesamiento tecnológico-industrial de estos o procedentes de la contaminación ambiental.',
+            'Los tranquilizadores son sustancias que se utilizan para evitar que el animal se estrese al ser trasportando y disminuye la calidad de la carne antes de ser sacrificado.',
           imagen: require('@/assets/actividad/pregunta_1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -94,7 +93,7 @@ export default {
         {
           id: 6,
           texto:
-            'La fase toxicocinética comprende los procesos de absorción, distribución, biotransformación y eliminación.',
+            ' Los anabolizantes son sustancias que favorecen la síntesis proteica en la producción de carne.',
           imagen: require('@/assets/actividad/pregunta_2.png'),
           barajarRespuestas: false,
           opciones: [
@@ -108,7 +107,7 @@ export default {
         {
           id: 7,
           texto:
-            'El IDA es el valor del residuo mínimo que queda en el alimento tras su contacto con este siguiendo unas buenas prácticas de higiene, agrícolas y de procesamiento.',
+            'Los oligonutrientes son compuestos que se caracterizan por tener moléculas orgánicas de cloro en su estructura química.',
           imagen: require('@/assets/actividad/pregunta_3.png'),
           barajarRespuestas: false,
           opciones: [
@@ -122,7 +121,7 @@ export default {
         {
           id: 8,
           texto:
-            'Los microorganismos son organismos muy pequeños que sólo se pueden observar con equipos especiales como el microscopio.',
+            'Las Aminas biógenas  son formadas por la descarboxilación enzimática de los aminoácidos.',
           imagen: require('@/assets/actividad/pregunta_4.png'),
           barajarRespuestas: false,
           opciones: [
@@ -136,7 +135,7 @@ export default {
         {
           id: 9,
           texto:
-            'Sustancias bociógenas impiden la absorción de fosforo por parte de la glándula tiroides.',
+            'Las aminas biógenas son producidas por la pirólisis de aminoácidos, cuando los alimentos de alto contenido en proteínas como las carnes y pescados se llevan a tratamientos térmico intensos.',
           imagen: require('@/assets/actividad/pregunta_1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -150,7 +149,7 @@ export default {
         {
           id: 10,
           texto:
-            'Los inhibidores enzimáticos son sustancias que obstruyen con la actividad enzimática del sistema digestivo.',
+            'El plomo es un metal pesado que puede encontrarse en la tuberías de agua, en envases alimentarios y hasta en el vino.',
           imagen: require('@/assets/actividad/pregunta_2.png'),
           barajarRespuestas: false,
           opciones: [

@@ -32,7 +32,7 @@
             img(src='@/assets/curso/temas/t8/img03.png', alt='')
         .row
           .col-lg-12
-            p 3. Promoción del crecimiento con el fin de aumentar la ganancia de peso/ día.
+            p #[b 3. Promoción del crecimiento:] con el fin de aumentar la ganancia de peso/ día.
     
     p En general las concentraciones que suelen encontrarse en las diversas muestras (orina, heces, leche, huevos, despojos), serán muy bajas o incluso nulas siempre que se hayan empleado las dosis terapéuticas, igualmente dependerá del tipo de medicamentos veterinarios a emplear, si su utilización es limitada el riesgo disminuye de forma notable, mientras que cuando se hace un uso notable a gran escala, el riesgo aumenta. Sin embargo, el problema esencial radica en la estimación del riesgo, ya que la sintomatología en la especie humana a altas dosis no es de ninguna forma extrapolable a las que pueden aparecer derivadas de pequeñas dosis existentes en los alimentos.
     p En los datos que apuntan hacia un peligro limitado en el caso de residuos en medicamentos se tiene:
@@ -95,7 +95,7 @@
     #t_8_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 8.4 Tranquilizadores
 
-    p Estas sustancias que se utilizan para evitar que el animal se estrese al ser trasportando y disminuye la calidad de la carne antes de ser sacrificado. Se emplean así fenotiaacinas, butirofenonas, benzodiacepinas, dibenzoxazepinas, entre otras, que suelen eliminarse de forma completa en un período que oscila entre uno y siete días.
+    p Estas sustancias que se utilizan para evitar que el animal se estrese al ser transportado y disminuye la calidad de la carne antes de ser sacrificado. Se emplean así fenotiaacinas, butirofenonas, benzodiacepinas, dibenzoxazepinas, entre otras, que suelen eliminarse de forma completa en un período que oscila entre uno y siete días.
     
     Separador
     #t_8_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -108,7 +108,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/t8/img09.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Entre los anabolizantes de origen natural están el 17-β estradiol, progesterona y testosterona. Estas sustancias se sintetizan normalmente en los animales y en el hombre en las gónadas, la corteza suprarrenal y la placenta en las hembras gestantes. Se pueden encontrar estas hormonas regularmente en la alimentación en cantidades superiores incluso a las que se encuentran en la carne de las terneras tratadas con anabolizantes.<br><br>Sin embargo, estas hormonas se metabolizan rápidamente en el hígado, lo que explica su mínima eficacia por vía oral.<br><br>El sexo de los animales afecta su tasa de crecimiento y constitución física. Así, en el macho el crecimiento suele ser más rápido y con un menor contenido de grasa; de ahí que cuando el animal es castrado se produce un engorde.
+        p.mb-0 Entre los anabolizantes de origen natural están el 17-β estradiol, progesterona y testosterona. Estas sustancias se sintetizan normalmente en los animales y en el hombre en las gónadas, la corteza suprarrenal y la placenta en las hembras gestantes. Se pueden encontrar estas hormonas regularmente en la alimentación, en cantidades superiores incluso a las que se encuentran en la carne de las terneras tratadas con anabolizantes.<br><br>Sin embargo, estas hormonas se metabolizan rápidamente en el hígado, lo que explica su mínima eficacia por vía oral.<br><br>El sexo de los animales afecta su tasa de crecimiento y constitución física. Así, en el macho el crecimiento suele ser más rápido y con un menor contenido de grasa; de ahí que cuando el animal es castrado se produce un engorde.
 
 
     p Entre los anabolizantes de síntesis o exógenos se encuentran los estilbenos tipo DES, acetato de trenbolona (TBA) y zeranol. Son muy activos por vía oral y tienen la mayor actividad anabolizante. La acción cancerígena de acuerdo a los antecedentes históricos del DES y estilbenos en general (desarrollo de adenocarcinoma vaginal en chicas procedentes de madres tratadas) ha determinado su prohibición como promotores del crecimiento. Parece ser que actúan como moléculas epigenéticas o promotoras, no obstante, la acción se manifiesta a dosis muy distantes de las existentes en los residuos.

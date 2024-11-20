@@ -7,7 +7,7 @@
         span 4
       h1 Hidrocarburos policlorados, dioxinas y furanos policlorobifenilos (PCBs)
     
-    p Los bifenilos policlorados (PCBs) se caracterizan por poseer una gran estabilidad y liposolubilidad, lo que determina que puedan acumularse principalmente en el tejido adiposo. Son compuestos química y térmicamente estables a temperaturas inferiores a 850 °C y con excelentes propiedades dieléctricas.
+    p Los bifenilos policlorados (PCBs) se caracterizan por poseer una gran estabilidad y liposolubilidad, lo que determina que puedan acumularse principalmente en el tejido adiposo. Son compuestos químicos y térmicamente estables a temperaturas inferiores a 850 °C y con excelentes propiedades dieléctricas.
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5.align-items-center
       .bloque-texto-g__img.bg1
         img.img-bloque.d-none.d-lg-block(src='@/assets/curso/temas/t4/img01.png', alt='')
@@ -31,7 +31,7 @@
         img(src='@/assets/curso/temas/t4/img02.png', alt='')
       .col-lg-7.ps-lg-0
         .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
-          p De dichos compuestos el más tóxico es el 2,3,7,7 - TCDD considerado por la Agencia Internacional de Investigación sobre el Cáncer (IARC) como sustancia carcinogénica clase 1, es decir de toxicidad demostrada para el hombre. Está identificada como el compuesto más tóxico de los generados por el hombre, siendo la dosis letal DL50 en ratas de tan solo 0,25 mg/kg. Varios estudios han demostrado la capacidad de estos compuestos para producir además de cáncer, mutaciones y malformaciones en fetos de distintas especies animales. A pesar de ser conocida como cancerígeno humano no se considera que el cáncer sea el efecto crítico que se haya de tener en cuenta para la fijación de la ingesta tolerable. Los efectos críticos son: cambios en el comportamiento neurológico, endometriosis e inmunosupresión.
+          p De dichos compuestos el más tóxico es el 2,3,7,7 - TCDD considerado por la Agencia Internacional de Investigación sobre el Cáncer (IARC) como sustancia carcinogénica clase 1, es decir de toxicidad demostrada para el hombre. Está identificada como el compuesto más tóxico de los generados por el hombre, siendo la dosis letal DL50 en ratas de tan solo 0,25 mg/kg. Varios estudios han demostrado la capacidad de estos compuestos para producir además de cáncer, mutaciones y malformaciones en fetos de distintas especies animales. A pesar de ser conocida como cancerígeno humano no se considera que el cáncer sea el efecto crítico que se deba tener en cuenta para la fijación de la ingesta tolerable. Los efectos críticos son: cambios en el comportamiento neurológico, endometriosis e inmunosupresión.
       .py-3
       
     .row.justify-content-center.align-items-center.mb-5

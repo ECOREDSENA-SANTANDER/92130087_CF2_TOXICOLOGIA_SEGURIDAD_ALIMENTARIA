@@ -141,7 +141,7 @@
             .text.p-lg-4.p-3
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
                 h4.mt-4.mb-3 Clínica
-                p Somnolencia, descoordinación, alucinaciones, confusión, sensaciones anormales, debilidad muscular y descoordinación. Estudios en humanos (sobre 8.000 trabajadores en China) que daban positivo en neurotoxicidad presentaban relación con la aparición de cáncer. 
+                p.text-small Somnolencia, descoordinación, alucinaciones, confusión, sensaciones anormales, debilidad muscular y descoordinación. Estudios en humanos (sobre 8.000 trabajadores en China) que daban positivo en neurotoxicidad presentaban relación con la aparición de cáncer. 
     
     p.mb-4 Métodos para minimizar el contenido en acrilamida en los alimentos:
 

@@ -254,7 +254,7 @@ export default {
       significado: 'de paladar, referente al gusto.',
     },
     {
-      termino: 'Pirolisis',
+      termino: 'Pirólisis',
       significado:
         'Proceso químico causado por el calentamiento en ausencia de oxígeno, en el cual se descompone la materia orgánica de todo tipo de materiales, menos metales y vidrio.',
     },
@@ -294,12 +294,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -309,7 +309,7 @@ export default {
       autores: [
         {
           nombre: 'Diana Cristina Muñoz Urrea',
-          cargo: 'Gestor de Curso',
+          cargo: 'Gestor de curso',
           centro: 'Centro de Industria y Servicios del Meta - Regional Meta',
         },
         {
@@ -339,17 +339,17 @@ export default {
       autores: [
         {
           nombre: 'Yazmin Rocio Figueroa Pacheco ',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrollador <em>fullstack</em>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño ',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y producción audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

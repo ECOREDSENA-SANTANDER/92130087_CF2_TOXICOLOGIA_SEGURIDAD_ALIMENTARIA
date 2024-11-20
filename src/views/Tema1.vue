@@ -47,9 +47,9 @@
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.1  Derivados de la pirolisis
+      h2 1.1  Derivados de la pirólisis
       
-    p La pirolisis es un proceso químico causado por el calentamiento en ausencia de oxígeno, en el cual se descompone la materia orgánica de todo tipo de materiales, menos metales y vidrio. Se forman principalmente:
+    p La pirólisis es un proceso químico causado por el calentamiento en ausencia de oxígeno, en el cual se descompone la materia orgánica de todo tipo de materiales, menos metales y vidrio. Se forman principalmente:
     ol.lista-ol--cuadro
       li
       .lista-ol--cuadro__vineta
@@ -78,7 +78,7 @@
         img(src='@/assets/curso/temas/t1/img06.png', alt='')
       .col-lg-7.ps-lg-0
         .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
-          p Los HAP son un grupo de más de 100 sustancias químicas diferentes que se forman durante la combustión incompleta del carbón, el petróleo y la gasolina, la basura y otras sustancias orgánicas como el tabaco o la carne preparada a la brasa. <br><br>Los HAP se encuentran generalmente como una mezcla de dos o más de estos compuestos. Los alimentos crudos contienen pocos HAP, los cuales se ven incrementados cuando el alimento es cocinado, es tostado o se lleva a plancha. La formación de ellos en preparaciones con brasas de carbón, aumenta por el contenido de grasa de la carne, el tiempo de cocción y la temperatura. <br><br>El cancerígeno más conocido de todos es el benzopireno ampliamente difundido en los alimentos. Se forma a partir de almidón a 370 - 390 ºC y también a partir de aminoácidos y ácidos grasos a temperaturas altas.
+          p Los HAP son un grupo de más de 100 sustancias químicas diferentes que se forman durante la combustión incompleta del carbón, el petróleo y la gasolina, la basura y otras sustancias orgánicas como el tabaco o la carne preparada a la brasa. <br><br>Los HAP se encuentran generalmente como una mezcla de dos o más de estos compuestos. Los alimentos crudos contienen pocos HAP, los cuales se ven incrementados cuando el alimento es cocinado, es tostado o se lleva a plancha. La formación de ellos en preparaciones con brasas de carbón, aumenta por el contenido de grasa de la carne, el tiempo de cocción y la temperatura. <br><br>El cancerígeno más conocido de todos es el benzopireno, ampliamente difundido en los alimentos. Se forma a partir de almidón a 370 - 390 ºC y también a partir de aminoácidos y ácidos grasos a temperaturas altas.
 
     h5 Vías de exposición del HAP
     p Uso habitual de productos derivados del petróleo y fumadores.
@@ -88,7 +88,7 @@
       li
       .lista-ol--cuadro__vineta
         span 1
-      |Atmósfera (vehículos a motor, todos los diesel).
+      |Atmósfera (vehículos a motor, todos los diésel).
 
       li
       .lista-ol--cuadro__vineta
@@ -152,7 +152,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3 Aminas heterocíclicas (AH)
     
-    p Producidas por la pirólisis de aminoácidos, cuando los alimentos de alto contenido en proteínas como las carnes y pescados se llevan a tratamientos térmico intensos. Se han identificado hasta 20 estructuras diferentes que se pueden agrupar en 2 familias:
+    p Producidas por la pirólisis de aminoácidos, cuando los alimentos de alto contenido en proteínas como las carnes y el pescado, se llevan a tratamientos térmico intensos. Se han identificado hasta 20 estructuras diferentes que se pueden agrupar en 2 familias:
     ul.lista-ul--color
       li
         i.fas.fa-check
