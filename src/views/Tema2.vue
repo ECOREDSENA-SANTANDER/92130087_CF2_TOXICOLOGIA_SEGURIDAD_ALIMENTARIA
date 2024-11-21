@@ -110,7 +110,7 @@
               img(src="@/assets/curso/temas/t2/img04.png", alt="")
             .text.p-lg-4.p-3
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
-                h4.mt-4.mb-3 Neurotóxico
+                h4.mt-2.mb-3 Neurotóxico
                 p A altas exposiciones ocupacionales y accidentales (en animales y hombre).
 
       .col-lg-3.col-md-8.col-11.mb-3.mb-md-0
@@ -121,7 +121,7 @@
               img(src="@/assets/curso/temas/t2/img05.png", alt="")
             .text.p-lg-4.p-3
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
-                h4.mt-4.mb-3 Genotóxico
+                h4.mt-2.mb-3 Genotóxico
                 p Afecta a células germinales (conduce a cambios hereditarios).
 
       .col-lg-3.col-md-8.col-11.mb-3.mb-md-0
@@ -131,7 +131,7 @@
               img(src="@/assets/curso/temas/t2/img06.png", alt="")
             .text.p-lg-4.p-3
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
-                h4.mt-4.mb-3 Carcinógeno
+                h4.mt-2.mb-3 Carcinógeno
                 p En animales de experimentación (ratas).
       .col-lg-3.col-md-8.col-11.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
@@ -139,8 +139,9 @@
             figure
               img(src="@/assets/curso/temas/t2/img07.png", alt="")
             .text.p-lg-4.p-3
-              .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
-                h4.mt-4.mb-3 Clínica
+              .row.text-center.justify-content-center.align-items-center.mb-5
+                .col-lg-8.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xxl-4
+                h4.mt-2.mb-3 Clínica
                 p.text-small Somnolencia, descoordinación, alucinaciones, confusión, sensaciones anormales, debilidad muscular y descoordinación. Estudios en humanos (sobre 8.000 trabajadores en China) que daban positivo en neurotoxicidad presentaban relación con la aparición de cáncer. 
     
     p.mb-4 Métodos para minimizar el contenido en acrilamida en los alimentos:
